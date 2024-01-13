@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Saurabh Mishra
+Student of BCA (Data Science) in SRM University
+🌱 I’m currently learning DSA in C Programming language
+🔭 I’m currently working on a spring boot project to create an simple web app with database
+
 
 <!--
 **saurabh-github-std/saurabh-github-std** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
