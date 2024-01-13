@@ -1,7 +1,7 @@
-### Hi there 👋
-I am Saurabh Mishra
-Student of BCA (Data Science) in SRM University
-🌱 I’m currently learning DSA in C Programming language
+### Hi there 👋 <br>
+I am Saurabh Mishra <br>
+Student of BCA (Data Science) in SRM University <br>
+🌱 I’m currently learning DSA in C Programming language <br>
 🔭 I’m currently working on a spring boot project to create an simple web app with database
 
 
